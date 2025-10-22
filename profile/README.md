@@ -32,7 +32,7 @@ We aim to:
   Scalable hosting, platform audits, and managed services to keep Odoo running smoothly in the cloud.
 
 - **Continuous Improvement**  
-  Ongoing optimisation through our *Elevate* and *Purple Shield* programmes — for proactive support and predictable upgrade paths.
+  Ongoing optimisation through training and roadmapping — for proactive support and predictable upgrade paths.
 
 - **Community Engagement**  
   Through our community arm, **The Purple Juice Co**, we champion Odoo knowledge sharing, creativity, and collaboration.
